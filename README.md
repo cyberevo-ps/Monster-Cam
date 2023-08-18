@@ -1,8 +1,11 @@
 to download the tool 
 ___________________________________________________________
 
+
                          TERMUX
+                         
 ___________________________________________________________
+
 pkg update 
 
 pkg upgrade 
@@ -14,10 +17,14 @@ git clone https://github.com/bohaydar/Monster-Cam.git
 cd Monster-Cam
 
 python Monster-Cam.py
+
 ____________________________________________________________
 
+
                         KLAI LINUX
-____________________________________________________________                    
+                        
+____________________________________________________________   
+
 apt update 
 
 apt upgrade 
@@ -29,7 +36,9 @@ git clone https://github.com/bohaydar/Monster-Cam.git
 cd Monster-Cam
 
 python Monster-Cam.py
+
 ____________________________________________________________
+
 
 
 
